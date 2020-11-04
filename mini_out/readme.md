@@ -1,5 +1,5 @@
-## Datasheet
-# Board
+# Datasheet
+## Board
 ![mini_out](mini-out-front.PNG "mini_out")
 * Size: 54mm x 42.5 mm - exactly half a credit card
 * Mounting Holes:
