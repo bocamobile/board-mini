@@ -1,9 +1,9 @@
-## Datasheet
-# Microcontroller
+# Datasheet
+## Microcontroller
 * Manufacturer: ST
 * Architecture: ARM®32-bit Cortex®-M3 CPU Core
 * Type: STM32F103CBT6
-# Key Features 
+## Key Features 
 * ARM®32-bit Cortex®-M3 CPU Core
   * 72 MHz maximum frequency,1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 wait state memory access
   * Single-cycle multiplication and hardware division
