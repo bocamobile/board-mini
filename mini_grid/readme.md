@@ -37,5 +37,5 @@ With a tiny configuration of 17.6*15.7*2.3mm, SIM868 can meet almost all the spa
  * u.fl connector for GSM and GPS antenna 
  * NanoSIM Card holder WR-CRD Nano SIM Card Connector
 ## License
-![license](Bild_2020-11-09_170201.png "license")
+![license](license.PNG "license")
 
