@@ -14,4 +14,7 @@
   * Würth WR-WST REDFIT IDC SKEDD
 * IO Connectors
 
+## License
+![license](license.PNG "license")
+
 
