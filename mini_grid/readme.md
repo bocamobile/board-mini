@@ -23,7 +23,7 @@ With a tiny configuration of 17.6*15.7*2.3mm, SIM868 can meet almost all the spa
  * Max fixed update rate up to 10 HZ (1Hz default)
  * Accuracy 2.5m CEP
 ## Board 
-![mini::grid](mini_grid_front.PNG "mini::grid")
+![mini::grid](mini_grid_front.png "mini::grid")
  * Size: 54mm x 42.5 mm - exactly half a credit card
  * Mounting Holes:
    * ø 3.2mm (for M3 bolt)
