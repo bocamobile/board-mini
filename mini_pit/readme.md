@@ -17,8 +17,7 @@ The ESP8266 Module can be easily integrated into space-constrained devices, due 
 
 The ESP8266 module can operate in a low-power connectivity mode. For instance, if it operates in DTIM10, it consumes only 1.2mW while maintaining a Wi-Fi connection. The module also integrates an SPI flash of 16 Mbits used for storing user programs, data and firmware.
 ## Board 
-Zoom MINI-PIT-A001-1-0-0-front.PNG
-MINI-PIT-A001-1-0-0-front.PNG 174 KB View full-size Download
+![mini::pit](mini_pit_front.png "mini::pit")
  * Size: 54mm x 42.5 mm - exactly half a credit card
  * Mounting Holes:
    * ø 3.2mm (for M3 bolt)
