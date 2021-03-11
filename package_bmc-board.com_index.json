@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "STM32",
+      "name": "bmc::board",
       "websiteURL": "http://www.st.com/en/microcontrollers.html",
       "maintainer": "STMicroelectronics",
       "email": "",
