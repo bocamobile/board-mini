@@ -70,14 +70,10 @@ The **mini::base** is a STM32F103 based microcontroller board with many auxiliar
 * pressure, altitude and temperature combined sensor
   * sensor equipped: MPL3115A2
   * quality suitable for environmental measurements: barometric pressure, etc
-## pinout
-<object data="https://github.com/bmc-labs/board_mini/blob/trunk/mini_base/MINI-BASE-A001-1.0.0-Pinout.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/bmc-labs/board_mini/blob/trunk/mini_base/MINI-BASE-A001-1.0.0-Pinout.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/bmc-labs/board_mini/blob/trunk/mini_base/MINI-BASE-A001-1.0.0-Pinout.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
 
+## Pinout
 ![pinout](./pictures/mini_base_pinout.png "pinout")
+
 ## Programm Settings
 * board: generic STM32F103C series
 * variant: STM32F103CB (20k RAM, 128k flash)

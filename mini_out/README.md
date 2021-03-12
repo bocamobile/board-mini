@@ -1,6 +1,9 @@
 # Datasheet
+The **mini::out** is a simple breakout board for the mini::base with two 12-pin headers for IO access, a JTAG connector and reset button for flashing the firmware and a spring loaded clamp for powering everything with up to 24V and connect a CAN bus. 
+
 ## Board
-![mini_out](mini-out-front.PNG "mini_out")
+![mini_out](./pictures/mini-out-front.png "mini_out")
+
 * Size: 54mm x 42.5 mm - exactly half a credit card
 * Mounting Holes:
   * ø 3.2mm (for M3 bolt)
@@ -15,6 +18,6 @@
 * IO Connectors
 
 ## License
-![license](license.PNG "license")
+![license](./pictures/license.png "license")
 
 
