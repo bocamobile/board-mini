@@ -69,7 +69,13 @@
   * sensor equipped: MPL3115A2
   * quality suitable for environmental measurements: barometric pressure, etc
 ## pinout
-![pinout](MINI-BASE-A001-1.0.0-Pinout.pdf "pinout")
+<object data="https://github.com/bmc-labs/board_mini/blob/trunk/mini_base/MINI-BASE-A001-1.0.0-Pinout.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/bmc-labs/board_mini/blob/trunk/mini_base/MINI-BASE-A001-1.0.0-Pinout.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/bmc-labs/board_mini/blob/trunk/mini_base/MINI-BASE-A001-1.0.0-Pinout.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+![pinout](./pictures/mini_base_pinout.png "pinout")
 ## programm settings
 * board: generic STM32F103C series
 * variant: STM32F103CB (20k RAM, 128k flash)
@@ -93,4 +99,4 @@
   * led - PC13 (low=on)
   
 ## License
-![license](Bild_2020-11-09_170201.png "license")
+![license](./pictures/Bild_2020-11-09_170201.png "license")
