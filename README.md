@@ -22,7 +22,7 @@ the repo is structured by the main folder, which contains this README.md and a s
 │   ├── production_files
 │   └── README.md
 ```
-follow the instructions in our `[Getting Started](./mini_base/getting_started.md)` section,
+follow the instructions in our [Getting Started](./mini_base/getting_started.md) section,
 to get the project rolling  
 
 ## mini::Base
