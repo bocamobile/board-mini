@@ -3,14 +3,14 @@ the **mini::base** is suitable for a variety of applications and can be used
 within different environments   
 - Command line based  
 - Arduino  
-	* bare metal  
-	* hid bootloader  
+	* bare-metal  
+	* HID bootloader  
 - Platformio  
-	* bare metal  
+	* bare-metal  
 	* bootloader  
 - Zephyr 
-	* bare metal  
-	* mcuboot  
+	* bare-metal  
+	* MCUboot  
 
 # Command line
 //
