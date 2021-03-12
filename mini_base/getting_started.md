@@ -82,23 +82,27 @@ Found 1 stlink programmers
 Get the [https://www.st.com/en/development-tools/stm32cubeprog.html](STM Cube Programmer)  
 _sadly you have to enter your email_
 
-Open Cube Programmer
+Open Cube Programmer  
 ???How???
 
-Upgrade ST-Link V2 Firmware
-Connect your ST-Link V2 with the mini::base with your computer.
-Hold the Reset Button on your mini::base,
-Click Connect in the Cube Programmer GUI
+Upgrade ST-Link V2 Firmware  
+Connect your ST-Link V2 with the mini::base with your computer.  
+Hold the Reset Button on your mini::base,  
+Click Connect in the Cube Programmer GUI  
 and then release the Reset Button on your mini::base
 
 ..?
 
+Disconnect
 
-
+Now you are ready to program your mini::base  
+Inside the ArduinoIDE go to `File` -> `Examples` -> `01.Basics` and select `Blink`  
+Click the `Upload` Button and Done!  
+Your mini::base should now blink in the given frequency
 
 ## hid bootloader
 //
-# Platformio
+# PlatformIO
 //
 ## bare metal
 //
