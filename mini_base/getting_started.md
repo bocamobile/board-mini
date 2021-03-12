@@ -1,7 +1,8 @@
 # Getting Started with the mini::base
+<img align="right" src="./pictures/mini_base_front.png" height=300>
+
 the **mini::base** is suitable for a variety of applications and can be used
 within different environments   
-<img align="right" src="./pictures/mini_base_front.png" width=300>
 - Command line based  
 - Arduino  
 	* bare-metal  
