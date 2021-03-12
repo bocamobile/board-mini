@@ -43,6 +43,9 @@ the mini::base comes with
 ![mini::grid](./mini_grid/pictures/mini_grid_cad.png "mini::grid")
 
 with the mini::grid, we aimed to create a versatile extension to the mini::base for edge applications. it therefore has connector footprints for THT loom connectors which wire the power supply, CAN and some I/Os, it has a connector for a small display and it has connectors for external GSM/GPRS and GPS antennae. all connectors are industrial grade.  
+
+![mini::grid::features](./mini_grid/pictures/mini_grid_features.png "mini::grid::features")
+
 the mini::grid comes with  
     - loom connectors (by Binder, 4p and 5p)  
     - display connector by molex  
@@ -53,11 +56,21 @@ the mini::grid comes with
 ![mini::out](./mini_out/pictures/mini_out_cad.png "mini::out")
 
 the mini::out has the same basic dimensions as the mini::base and all other mini series extension boards. the bolt holes are made for M3 bolts. and there is another feature on the mini series: the Würth board-to-board connectors are stable enough for any combination of mini::base plus extension board to be fixed in a housing by simply sandwiching the boards package between two housing halves.  
- 
+
+![mini::out::features](./mini_out/pictures/mini_out_features.png "mini::out::features")
+
+the mini::out comes with  
+    - access to CAN and all native pins  
+    - reset button for ease of development  
+    - JTAG connector footprint for use with the out::cable  
+
 ## mini::pit
 ![mini::pit](./mini_pit/pictures/mini_pit_cad.png "mini::pit")
 
 with the mini::pit, we aimed to create a versatile extension to the mini::base for local wireless applications. in terms of the wired interface, there are two footprints for THT loom connectors which wire the power supply and one CAN on one and some I/Os and the other CAN on the other, it has a connector for a small display and it has a connector for an external BLE / WiFi antenna.  
+
+![mini::pit::features](./mini_pit/pictures/mini_pit_features.png "mini::pit::features")
+
 the mini::pit comes with  
     - loom connectors (by Binder, 4p and 5p)  
     - display connector by molex  
