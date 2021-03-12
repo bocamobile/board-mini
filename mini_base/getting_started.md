@@ -42,12 +42,13 @@ Search for `stm32`
 `STM32 Cores` is the correct name  
 Select the newest version (1.9.0) and click `Install`
 
-After the installation go again to `Tools` -> `Board:` -> select the`STM32  
-Boards (selected from submenu)` and choose `Generic STM32F1 series`  
+After the installation go again to `Tools` -> `Board:`  
+-> select the `STM32 Boards (selected from submenu)`  
+and choose `Generic STM32F1 series`  
 Go again to `Tools` -> `Board part number:` and choose `BluePill F103CB (or C8 with 182k)`
 
 ### script to include udev rules
-Safe the following codde at `~/etc/udev/rules.d/stlinkv2.rules`
+Safe the following codde at `~/etc/udev/rules.d/49-stlinkv2.rules`
 ```zsh
 # udev rules for ST-LINK V2 adapter
 # as recommended to use with the board::mini series by bmc::labs
