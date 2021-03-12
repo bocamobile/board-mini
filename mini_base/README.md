@@ -1,4 +1,6 @@
 # Datasheet
+The **mini::base** is a STM32F103 based microcontroller board with many auxiliary features like a CAN transciever with hardware filter and ESD protection, a micro SDcard slot, 12V power supply, an atmospheric conditions sensor, USB-C and much more. All in a small formfactor of 54x42,5mm and ready to be combined with one of our extension boards.  
+ 
 ## Microcontroller
 * Manufacturer: ST
 * Architecture: ARM®32-bit Cortex®-M3 CPU Core
@@ -76,13 +78,13 @@
 </object>
 
 ![pinout](./pictures/mini_base_pinout.png "pinout")
-## programm settings
+## Programm Settings
 * board: generic STM32F103C series
 * variant: STM32F103CB (20k RAM, 128k flash)
 * upload method: STM32duino bootloader
 * CPU speed: 72 MHz 
 * optimize: smallest(default)
-## internal IOs
+## Internal IOs
 * CAN
   * CAN TX - PB9
   * CAN RX - PB8
