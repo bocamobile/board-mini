@@ -35,7 +35,7 @@ The ESP8266 module can operate in a low-power connectivity mode. For instance, i
    * 1x 5-Pin BINDER (CH1) for digital IO, CAN and 5V Sensorsupply
  * additional CAN, accesible vie the ESP32-WROOM-32-U
 
-## programm settings
+## Programm Settings
  * board: ESP32 dev module
  * upload speed: 115200
  * CPU frequency: 240MHz (wifi/bt)
@@ -45,11 +45,12 @@ The ESP8266 module can operate in a low-power connectivity mode. For instance, i
  * partition scheme: default 4MB with spiffs
  * PSRAM: disabled
 
-## programm mode
+## Programm Mode
  * click on "upload" in the Arduino IDE
  * push "Boot" and keep pushed
  * shortly push "EN"
  * when Arduino IDE says: "upload complete", release "Boot"
  * push "EN" to reset the board to run mode
+
 ## License
 ![license](./pictures/license.png "license")
