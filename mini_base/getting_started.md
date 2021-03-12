@@ -26,24 +26,25 @@ within different environments
 - ST-Link V2 Adapter (i.e. link to programmer?)
 - 10 pin jtag ribbon cable
 
-Install the latest Arduino IDE
-for Debian/Ubuntu
+Install the latest Arduino IDE  
+for Debian/Ubuntu  
 ```zsh
 $ sudo apt install arduino
 ```
-Start Arduino and click `add` to dialout group.
+Start Arduino and click `add` to dialout group.  
 To make the changes work, you have to logout/restart your computer.
 
-Go to `File` -> `Preferences` and add the following link to URL
+Go to `File` -> `Preferences` and add the following link to URL  
 ```https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/package_stm_index.json```
 
-Go to `Tools` -> `Board:` -> and click on `Boards Manager...`
+Go to `Tools` -> `Board:` -> and click on `Boards Manager...`  
 Search for `stm32`  
-`STM32 Cores` is the correct name
+`STM32 Cores` is the correct name  
 Select the newest version (1.9.0) and click `Install`
 
-After the installation go again to `Tools` -> `Board:` -> select the`STM32
-Boards (selected from submenu)` and choose `Generic STM32F1 series`
+After the installation go again to `Tools` -> `Board:` -> select the`STM32  
+Boards (selected from submenu)` and choose `Generic STM32F1 series`  
+Go again to `Tools` -> `Board part number:` and choose `BluePill F103CB (or C8 with 182k)`
 
 ### script to include udev rules
 Safe the following codde at `~/etc/udev/rules.d/stlinkv2.rules`
