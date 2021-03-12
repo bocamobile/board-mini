@@ -2,7 +2,7 @@
 
 **a dev board to end all dev boards**
 
-# Project
+# Project board::mini
 the bmc::board project consits of a microcontroller board based upon the STM32f103 which is a development board with many auxiliary features like a CAN transciever with hardware filter and ESD protection, a micro SDcard slot, 12V power supply, an atmospheric conditions sensor, USB-C and much more  
 the mini::base can be stacked with either the mini::out, the mini::grid or the mini::pit, to enable further features like wifi or GPS  
 
@@ -23,7 +23,6 @@ the repo is structured by the main folder, which contains this README.md and a s
 │   └── README.md
 ```
 
-# board::mini
 ## mini::Base
 ![mini::base](./mini_base/pictures/mini_base_cad.png "mini::base")
 
