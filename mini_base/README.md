@@ -47,7 +47,7 @@
 * Packages are ECOPACK®
 
 ## Board
-![mini::base](./pictures/mini_base_front.PNG "mini::base")
+![mini::base](./pictures/mini_base_front.png "mini::base")
 * Size: 54mm x 42.5 mm - exactly half a credit card
 * Mounting Holes:
   * ø 3.2mm (for M3 bolt)
