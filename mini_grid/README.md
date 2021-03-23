@@ -1,7 +1,10 @@
 # Datasheet
+The **mini::grid** is based around the SIMCOM SIM868, featuring GPS L1 C/A code and quad-band GSM connection. Antennas can be connected via the respective u.fl connectors and a nanoSIMcard slot is located on the backside. Connect it to your custom application via the two Binder subminiatur connectors with wire out CAN, power supply and IOs. 
+
 ## Microcontroller
  * Manufacturer: SIMCOM
  * Type: SIM868
+
 ## Key Features 
 Designed for global market, SIM868 is integrated with a high performance GSM/GPRS part and a GNSS part. The GSM part is a quad-band GSM/GPRS that works on frequencies GSM 850 MHz, EGSM 900MHz, DCS 1800MHz and PCS 1900MHz. GSM features GPRS multi-slot class 12/class 10 (optional) and supports the GPRS coding schemes CS-1, CS-2, CS-3 and CS-4.
 
@@ -22,8 +25,10 @@ With a tiny configuration of 17.6*15.7*2.3mm, SIM868 can meet almost all the spa
  * 12 multi-tone active interference cancellers and jamming elimination
  * Max fixed update rate up to 10 HZ (1Hz default)
  * Accuracy 2.5m CEP
+
 ## Board 
-![mini::grid](mini_grid_front.png "mini::grid")
+![mini::grid](./pictures/mini_grid_front.png "mini::grid")
+
  * Size: 54mm x 42.5 mm - exactly half a credit card
  * Mounting Holes:
    * ø 3.2mm (for M3 bolt)
@@ -36,6 +41,7 @@ With a tiny configuration of 17.6*15.7*2.3mm, SIM868 can meet almost all the spa
    * 1x 5-Pin BINDER (CH1) for digital and analog Sensor Input, 5V Sensorsupply
  * u.fl connector for GSM and GPS antenna 
  * NanoSIM Card holder WR-CRD Nano SIM Card Connector
+
 ## License
-![license](license.PNG "license")
+![license](./pictures/license.png "license")
 
