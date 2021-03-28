@@ -12,7 +12,7 @@
 
 
 # Project board::mini
-the **bmc::board** project consits of a microcontroller board based upon the
+the **bmc::board** project consists of a microcontroller board based upon the
 STM32f103 which is a development board with many auxiliary features like a CAN
 transciever with hardware filter and ESD protection, a micro SDcard slot, 12V
 power supply, an atmospheric conditions sensor, USB-C and much more.
