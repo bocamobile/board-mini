@@ -2,7 +2,7 @@
   <img
     alt="bmc::board Logo"
     style="border-width:0"
-    src="./mini_base/pictures/logo.png"
+    src="./mini-base/pictures/logo.png"
   />
   <br />
   <br />
