@@ -1,15 +1,21 @@
 # Datasheet
-The **mini::base** is a STM32F103 based microcontroller board with many auxiliary features like a CAN transciever with hardware filter and ESD protection, a micro SDcard slot, 12V power supply, an atmospheric conditions sensor, USB-C and much more. All in a small formfactor of 54x42,5mm and ready to be combined with one of our extension boards.  
- 
+The **mini::base** is a STM32F103 based microcontroller board with many
+auxiliary features like a CAN transciever with hardware filter and ESD
+protection, a micro SDcard slot, 12V power supply, an atmospheric conditions
+sensor, USB-C and much more. All in a small formfactor of 54x42,5mm and ready
+to be combined with one of our extension boards.
+
 ## Microcontroller
 * Manufacturer: ST
 * Architecture: ARM®32-bit Cortex®-M3 CPU Core
 * Type: STM32F103CBT6
-## Key Features 
+
+## Key Features
 * ARM®32-bit Cortex®-M3 CPU Core
-  * 72 MHz maximum frequency,1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 wait state memory access
+  * 72 MHz maximum frequency,1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0
+    wait state memory access
   * Single-cycle multiplication and hardware division
-* Memories
+* Memory
   * 64 or 128 Kbytes of Flash memory
   * 20 Kbytes of SRAM
 * Clock, reset and supply management
@@ -31,12 +37,15 @@ The **mini::base** is a STM32F103 based microcontroller board with many auxiliar
   * 7-channel DMA controller
   * Peripherals supported: timers, ADC, SPIs, I2Cs and USARTs
 * Up to 80 fast I/O ports
-  * 26/37/51/80 I/Os, all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+  * 26/37/51/80 I/Os, all mappable on 16 external interrupt vectors and almost
+    all 5 V-tolerant
 * Debug mode
   * Serial wire debug (SWD) & JTAG interfaces
 * 7 timers
-  * Three 16-bit timers, each with up to 4 IC/OC/PWM or pulse counter and quadrature (incremental) encoder input
-  * 16-bit, motor control PWM timer with dead-time generation and emergency stop
+  * Three 16-bit timers, each with up to 4 IC/OC/PWM or pulse counter and
+    quadrature (incremental) encoder input
+  * 16-bit, motor control PWM timer with dead-time generation and emergency
+    stop
   * 2 watchdog timers (Independent and Window)
   * SysTick timer 24-bit downcounter
 * Up to 9 communication interfaces
@@ -49,7 +58,8 @@ The **mini::base** is a STM32F103 based microcontroller board with many auxiliar
 * Packages are ECOPACK®
 
 ## Board
-![mini::base](./pictures/mini_base_front.png "mini::base")
+![mini::base](./pictures/mini-base-front.png "mini::base")
+
 * Size: 54mm x 42.5 mm - exactly half a credit card
 * Mounting Holes:
   * ø 3.2mm (for M3 bolt)
@@ -63,7 +73,7 @@ The **mini::base** is a STM32F103 based microcontroller board with many auxiliar
   * pinout symmetrical - top boards can be rotated
 * USB Type C connector
   * JAE DX07S016JA1R1500
-* micro SD Card slot 
+* micro SD Card slot
 * CAN connection available on board-to-board connector pins 5 and 6
   * transceiver equipped: SN65HVD230
   * terminating resistor equipped, switchable in software
@@ -72,13 +82,13 @@ The **mini::base** is a STM32F103 based microcontroller board with many auxiliar
   * quality suitable for environmental measurements: barometric pressure, etc
 
 ## Pinout
-![pinout](./pictures/mini_base_pinout.png "pinout")
+![Pinout mini::base](./pictures/mini-base-pinout.png "Pinout mini::base")
 
 ## Programm Settings
 * board: generic STM32F103C series
 * variant: STM32F103CB (20k RAM, 128k flash)
 * upload method: STM32duino bootloader
-* CPU speed: 72 MHz 
+* CPU speed: 72 MHz
 * optimize: smallest(default)
 ## Internal IOs
 * CAN
@@ -95,6 +105,6 @@ The **mini::base** is a STM32F103 based microcontroller board with many auxiliar
   * SDA - PB7
 * user led
   * led - PC13 (low=on)
-  
+
 ## License
-![license](./pictures/Bild_2020-11-09_170201.png "license")
+![license](./pictures/mini-base-license.png "license")

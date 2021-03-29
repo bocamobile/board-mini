@@ -45,7 +45,7 @@ other mobile devices.
 
 ## Board
 
-![mini::grid](./pictures/mini_grid_front.png "mini::grid")
+![mini::grid](./pictures/mini-grid-front.png "mini::grid")
 
 * Size: 54mm x 42.5 mm - exactly half a credit card
 * Mounting Holes:
@@ -61,5 +61,5 @@ other mobile devices.
 * NanoSIM Card holder WR-CRD Nano SIM Card Connector
 
 ## License
-![license](./pictures/license.png "license")
+![mini::grid License](./pictures/mini-grid-license.png "mini::grid License")
 

@@ -7,7 +7,7 @@ connect a CAN bus.
 
 ## Board
 
-![mini_out](./pictures/mini-out-front.png "mini_out")
+![mini::out](./pictures/mini-out-front.png "mini::out")
 
 * Size: 54mm x 42.5 mm - exactly half a credit card
 * Mounting Holes:
@@ -23,4 +23,4 @@ connect a CAN bus.
 * IO Connectors
 
 ## License
-![license](./pictures/license.png "license")
+![mini::out License](./pictures/mini-out-license.png "mini::out License")

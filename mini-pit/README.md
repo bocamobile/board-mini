@@ -34,7 +34,7 @@ storing user programs, data and firmware.
 
 ## Board
 
-![mini::pit](./pictures/mini_pit_front.png "mini::pit")
+![mini::pit](./pictures/mini-pit-front.png "mini::pit")
 
 * Size: 54mm x 42.5 mm - exactly half a credit card
 * Mounting Holes:
@@ -66,4 +66,4 @@ storing user programs, data and firmware.
 * push "EN" to reset the board to run mode
 
 ## License
-![license](./pictures/license.png "license")
+![mini::pit License](./pictures/mini-pit-license.png "mini::pit License")
