@@ -1,7 +1,7 @@
 ---
 name: 'Wiki: Content Submission'
 about: Send us things you'd like to see in the Wiki
-title: "[WIKI]: INSERT TITLE HERE"
+title: "[WIKI FEATURE]: INSERT TITLE HERE"
 labels: documentation
 assignees: cdbrkfxrpt, jannikbmc
 

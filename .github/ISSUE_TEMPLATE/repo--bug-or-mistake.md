@@ -1,19 +1,19 @@
 ---
-name: 'Wiki: Bug or Mistake'
-about: Report alternative facts in the Wiki
-title: "[WIKI BUG]: INSERT TITLE HERE"
+name: 'Repo: Bug or Mistake'
+about: Report a problem with the main repo
+title: "[REPO BUG]: INSERT DESCRIPTION"
 labels: bug
-assignees: cdbrkfxrpt, jannikbmc
+assignees: jannikbmc
 
 ---
 
-**On which page is the problem?**
+**On which page or in which component is the problem?**
 Provide a page name and/or link.
 
 **Describe the bug or mistake**
-Is it a tooling bug, or a mistake in a page? Is it a typo or a missing step in a procedure? Provide a short description.
+Is it a mistake in the documentation? An example not working? A CAD file broken.
 
-**If it's a tooling bug, e.g. _Arduino IDE behaves differently from what you describe_, please keep going. Otherwise, you are done - thank you for your report!**
+**If it's an example not working or something else that is related to the code in the repo, please keep going. Otherwise, you are done - thank you for your report!**
 
 **How can we reproduce the problem?**
 Steps to reproduce the behavior:
