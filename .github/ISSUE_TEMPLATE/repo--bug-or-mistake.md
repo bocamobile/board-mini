@@ -3,7 +3,7 @@ name: 'Repo: Bug or Mistake'
 about: Report a problem with the main repo
 title: "[REPO BUG]: INSERT DESCRIPTION"
 labels: bug
-assignees: jannikbmc
+assignees: cdbrkfxrpt, jannikbmc
 
 ---
 
