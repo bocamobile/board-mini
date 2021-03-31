@@ -1,0 +1,12 @@
+"Designator","Footprint","Mid X","Mid Y","Ref X","Ref Y","Pad X","Pad Y","Layer","Rotation","Comment"
+""
+"J3","PCB-1mpzuevuzgsguukkiqai-1","121.25mm","107.5mm","121.25mm","107.5mm","116mm","109.25mm","T","0.00","Molex 34830-0801"
+"U1","PCB-xa77rof92k761hx1v7rk-1","121.25mm","124mm","121.25mm","124mm","123.155mm","126.45mm","T","270.00","STMicroelectronics E-L9637D013TR"
+"R1","RESC1608X55X30LL15T15","121.3mm","119.1mm","121.3mm","119.1mm","120.675mm","119.1mm","T","0.00","Panasonic ERJ-3GEYJ511V"
+"D1","ONSC-SOD-123-2-425-04_V","119.5mm","115.5mm","119.5mm","115.5mm","119.5mm","117.135mm","T","270.00","BAT54T1G"
+"C3","PCB-ul7goghxin8pri3xfob7-1","119.9mm","129.2mm","119.9mm","129.2mm","119.15mm","129.2mm","T","0.00","Cap"
+"C2","CAPC1608X90X35LL15T15","123.9mm","115.8mm","123.9mm","115.8mm","124.55mm","115.8mm","T","180.00","AVX Interconnect / Elco 0603YD474KAT2A"
+"C1","PCB-ul7goghxin8pri3xfob7-1","123.9mm","113.9mm","123.9mm","113.9mm","124.65mm","113.9mm","T","180.00","Cap"
+"J1","PCB-qkngfwumds4pa5a4mwtz-1","139.5mm","127mm","139.5mm","127mm","140.77mm","142.875mm","B","270.00","Würth Elektronik 690357102672"
+"J2","PCB-qkngfwumds4pa5a4mwtz-1","103mm","127mm","103mm","127mm","101.73mm","111.125mm","B","90.00","Würth Elektronik 690357102672"
+
